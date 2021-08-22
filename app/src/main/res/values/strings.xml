@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HearMe</string>
+    <string name="description_of_newitem">يمكنك معايانه اضافه عنصر الي القائمه من خلال اختيار الصوره والصوت المناسب من جهازك</string>
+    <string name="add_sound">اضف صوت</string>
+    <string name="add_photo">اضف صوره</string>
+    <string name="submit">اضافه</string>
+    <string name="Read_permition_needed_access_files">صلاحيه الوصول الي الملفات مطلوبه لقرائه الصور والاصوات من جهازك</string>
+    <string name="select_picture">اختر صوره</string>
+    <string name="select_Sound">اختر صوت</string>
+    <string name="select_picture_and_sound">اخختر صوت وصوره</string>
+    <string name="delete_item_confirmation">هل تريد حذف العنصر؟</string>
+    <string name="Confrim_delete">نعم</string>
+    <string name="cancel_delete">لا</string>
+    <string name="couldnt_play_sound">لايمكن تشغي الصوت</string>
+</resources>
